@@ -1,2 +1,3 @@
 # app-dev
-My first repository
+## now edited lol
+**MANAGER ESQUIREEEEE**
